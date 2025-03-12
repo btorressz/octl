@@ -6,6 +6,8 @@
 
 **NOTE CURRENT VERSION IS ONLY DEVELOPED IN SOLANA PLAYGROUND AND NEXT VERSION WILL BE EXPORTED TO VSCODE**
 
+**devnet**:(https://explorer.solana.com/address/2BYNDrj1KLe4DiKwu9UicZP5GzYJbM7fY13eYmdCF9pG?cluster=devnet)
+
 ## 🔹 How It Works:
 
 - Traders lock collateral in **$OTCL tokens** to create large-limit OTC orders.
